@@ -17,7 +17,6 @@ if (a == 5)
         Console.WriteLine($"{N} Это число НЕ палиндром");
     }
 }
-
 else 
 {
     Console.WriteLine ("Вы ввели не пятизначное число");
